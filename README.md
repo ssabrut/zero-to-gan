@@ -25,6 +25,13 @@ Learn the fundamentals of PyTorch, including:
 - Implementing linear regression from scratch
 - Using PyTorch's built-in modules
 
+### [Course 2: Image Classification](course-2/README.md)
+Learn about working with image data and building CNNs:
+- Working with image datasets
+- Data normalization and augmentation
+- Building Convolutional Neural Networks
+- Training and evaluating image classifiers
+
 ## License
 MIT License - feel free to use this material for learning purposes.
 
