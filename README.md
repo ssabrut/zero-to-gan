@@ -32,13 +32,6 @@ Learn about working with image data and building CNNs:
 - Building Convolutional Neural Networks
 - Training and evaluating image classifiers
 
-### [Course 3: Convolutional Networks](course-3/README.md) 
-Learn about building advanced CNNs:
-- CNN architectures and design principles
-- Feature extraction and visualization 
-- Transfer learning with pretrained models
-- Training deep networks effectively
-
 ## License
 MIT License - feel free to use this material for learning purposes.
 
